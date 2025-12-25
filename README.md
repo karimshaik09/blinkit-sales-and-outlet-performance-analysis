@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Analysis and Retail Performance Dashboard
+#  Blinkit Sales and Outlet Performance Analysis
 
 A data analysis project focused on understanding sales performance, customer ratings, and outlet characteristics of Blinkit using Python, Power BI and Excel.
 
